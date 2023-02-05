@@ -37,5 +37,5 @@ jobs:
         subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION }}
         resourceGroupName: ${{ secrets.AZURE_RG }}
         template: ./synapse.bicep
-        parameters: 'sqlServerName=contoso sqlAdministratorLogin=NiteLordz sqlAdministratorPassword=R824d!5F&( capacity=900 databasesName=Temp1234'
+        parameters: ./synapse.parameters.json
         failOnStdErr: false
