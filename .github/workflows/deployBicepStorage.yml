@@ -1,7 +1,4 @@
-on:
-  push:
-    branches:
-      -dev
+on: [push]
   
 name: Azure ARM
 jobs:
