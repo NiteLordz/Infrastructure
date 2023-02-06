@@ -11,6 +11,8 @@
     "databasesName": {
       "value": "Temp1234"
     },
-    "value":    
+    "capacity": {
+      "value": 
+    }    
   }
 }
