@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sqlAdministratorLogin": {
-      "value": 1000"NiteLordz"
+      "value": "NiteLordz"
     },
     "sqlAdministratorPassword": {
-      "value": 1000"R824d!5F&("
+      "value": "R824d!5F&("
     },
     "databasesName": {
-      "value": 1000"Temp1234"
+      "value": "Temp1234"
     },
     "capacity": {
-      "value": 1000
+      "value": 
     }    
   }
 }
