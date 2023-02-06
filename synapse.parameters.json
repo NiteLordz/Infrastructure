@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "sqlAdministratorLogin": {
+      "value": 900"NiteLordz"
+    },
+    "sqlAdministratorPassword": {
+      "value": 900"R824d!5F&("
+    },
+    "databasesName": {
+      "value": 900"Temp1234"
+    },
+    "capacity": {
+      "value": 900
+    }    
+  }
+}
